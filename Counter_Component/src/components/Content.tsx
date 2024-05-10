@@ -21,13 +21,31 @@ const Content = () => {
   return (
     <>
       <main>
-        <div className="container centerStyle">
-          <div className="displayStyle moveIt">Current Number: {counter}</div>
-            <div className="displayStyle m-3">
-              <button className="btn btn-danger" onClick={minusNum}>-</button>
-              <button className="btn btn-success" onClick={plusNum}>+</button>
-              <button className="btn btn-warning" onClick={resetNum}>RESET</button>
+        <div className="container text-center">
+          <div className="row py-4">
+            <div className="col">
+              Current Number:
+              <h1>{counter}</h1>
             </div>
+          </div>
+          <div className="row">
+            <div className="col">
+              <button className="btn btn-danger" onClick={minusNum}>
+                -
+              </button>
+
+              <button className="btn btn-success" onClick={plusNum}>
+                +
+              </button>
+            </div>
+          </div>
+          <div className="row">
+            <div className="col">
+              <button className="btn btn-warning" onClick={resetNum}>
+                RESET
+              </button>
+            </div>
+          </div>
         </div>
       </main>
     </>

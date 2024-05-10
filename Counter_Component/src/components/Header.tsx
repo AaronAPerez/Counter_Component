@@ -2,12 +2,13 @@ const Header = () => {
 
     return (
       <>
-          <header>
+          <header
+          className="header">
           </header>
       </>
     )  
   
-  };
+  }
   
-  export default Header;
+  export default Header
   
