@@ -15,17 +15,16 @@ const Content = () => {
     setCounter(0);
   };
 
-  // return alert (
-  //   "The counter is not allowed to be negative");
-
   return (
     <>
       <main>
         <div className="container text-center">
           <div className="row py-4">
             <div className="col">
-              Current Number:
-              <h1>{counter}</h1>
+              <h1>
+              LEVEL UP
+              <div className="row"></div>
+            {counter}</h1>
             </div>
           </div>
           <div className="row">

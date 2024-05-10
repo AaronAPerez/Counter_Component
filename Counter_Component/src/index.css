@@ -28,13 +28,12 @@ body {
 
 .btn{
   font-size: 2.2rem;
-  font-weight: 500;
-  padding: 10%;
+  font-weight: bold;
+  padding: 2%;
+  margin: 1%;
 }
 
-.btn:hover{
-  font-weight: bolder;
-}
+
 
 h1 {
   font-size: 13rem;
