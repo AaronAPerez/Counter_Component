@@ -29,5 +29,5 @@ This mini challenge will help you practice setting up a React component, managin
 <b>GitHub:</b> https://github.com/AaronAPerez/Counter_Component<br>
 
 
-Peer Reviewed by: <br>
-Comments:  <br> type your comments here <br> 
+Peer Reviewed by:Alicia Bryant <br>
+Comments:  <br> Code works great!! Counter works as it should. Able to count up by one, down by one, and reset. Great Job! <br> 
