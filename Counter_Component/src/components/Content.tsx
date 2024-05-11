@@ -5,7 +5,7 @@ const Content = () => {
   const [counter, setCounter] = useState(0); // Initialize the "counter" state with 0 using the useState hook
 
   const minusNum = () => {
-    // function to decrement the counter
+    // function to decrease the counter
     setCounter((minusNum) => (minusNum > 0 ? minusNum - 1 : 0));
   }; //// Update the counter state by decreasing it if it's greater than 0, otherwise set it to 0
 
