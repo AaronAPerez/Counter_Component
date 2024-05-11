@@ -1,10 +1,10 @@
 # Mini Challenge - 4 Counter Component
 
-<b>Name:</b>Aaron Perez<br>
-<b>Project:</b>Counter Component <br>
+<b>Name:</b> Aaron Perez<br>
+<b>Project:</b> Counter Component <br>
 <b>Date:</b> 05/09/2024 <br>
 <strong>Description:</strong>
-Create a new React project: new file and new folder
+ Create a new React project: new file and new folder
 
 Use bootstrap and install bootstrap
 
@@ -29,5 +29,5 @@ This mini challenge will help you practice setting up a React component, managin
 <b>GitHub:</b> https://github.com/AaronAPerez/Counter_Component<br>
 
 
-Peer Reviewed by: Alicia Bryant <br>
-Comments: Code works great!! Counter works as it should. Able to count up by one, down by one, and reset. Great Job! <br> 
+<b>Peer Reviewed by:</b> Alicia Bryant <br>
+<b>Comments:</b> Code works great!! Counter works as it should. Able to count up by one, down by one, and reset. Great Job! <br>
